@@ -4,3 +4,6 @@ torchvision
 PIL
 ultralytics
 opencv
+pandas
+numpy
+pip
