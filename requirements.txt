@@ -1,7 +1,6 @@
-pipreqs==0.4.13
-torch==2.9.1
-torchvision==0.24.1
-ultralytics==8.3.230
-ultralytics-thop==2.0.18
-opencv-python==4.12.0.88
-pip==25.3
+streamlit
+torch
+torchvision
+PIL
+ultralytics
+opencv
