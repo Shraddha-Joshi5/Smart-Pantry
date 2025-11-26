@@ -9,12 +9,14 @@ This is a **Streamlit web app** that allows users to upload an **image** or a **
 - Displays the image/ frame with bounding boxes and object labels of the food items detected.  
 - Shows detected object names below the frame.
 
-## libraries needed
+## Libraries Needed
 - streamlit
 - opencv-python
 - pillow
 - ultralytics
 - matplotlib
+
+\n
 
 If you want to run the app: \n
 download the `app.py` file and execute `streamlit run app.py` in your terminal
