@@ -16,9 +16,10 @@ This is a **Streamlit web app** that allows users to upload an **image** or a **
 - ultralytics
 - matplotlib
 
-\n
+  
 
-If you want to run the app: \n
+If you want to run the app:  
+
 download the `app.py` file and execute `streamlit run app.py` in your terminal
 
 
